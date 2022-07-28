@@ -28,6 +28,7 @@
   color: #61dafb;
 }
 .feature {
+  margin-top: -1.5rem;
   display: inline-flex;
   align-items: center;
   justify-content: center;
